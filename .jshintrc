@@ -1,0 +1,31 @@
+{
+    "curly": true,
+	"eqeqeq": true,
+	"forin": true,
+	"freeze": true,
+	"immed": true,
+	"noarg": true,
+	"noempty": true,
+	"nonew": true,
+	"quotmark": "single",
+	"undef": true,
+	"unused": "vars",
+	"strict": false,
+	"latedef": "nofunc",
+	"expr": true,
+	"browser": true,
+	"devel": true,
+    "node": true,
+    "browserify": true,
+    "phantom": true,
+    "jasmine": true,
+    "predef": [
+        "momencio",
+        "angular",
+        "cordova",
+        "ionic",
+        "StatusBar",
+        "Promise",
+        "$readMoreJS"
+    ]
+}
