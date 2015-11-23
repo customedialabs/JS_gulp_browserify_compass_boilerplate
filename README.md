@@ -74,7 +74,7 @@ $ npm run watch
 
 Watches the ```src/``` folder for changes and builds the project. This one is the same as ```$ npm run build:dev``` but generates the files every time a change happens.
 
-\* All the generated files will be located under ```dist``` folder which is generated dynamically every time you build the project.
+\* All the generated files will be located under ```dist/``` folder which is generated dynamically every time you build the project.
 
 
 ## License
