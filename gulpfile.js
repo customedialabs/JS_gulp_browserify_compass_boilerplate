@@ -119,4 +119,3 @@ gulp.task('processhtml', function () {
 });
 
 gulp.task('build:live', ['bundle_uglify_js', 'compile_minify_styles', 'processhtml']);
-gulp.task('build:all', ['build:dev', 'build:live']);

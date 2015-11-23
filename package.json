@@ -17,7 +17,6 @@
   "scripts": {
     "build:dev": "gulp build:dev",
     "build:live": "gulp build:live",
-    "build:all": "gulp build:all",
     "watch": "gulp watch"
   },
   "devDependencies": {
